@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<repo quality="experimental" status="unofficial">
+  <name>ray</name>
+  <description>Ray's Overlay</description>
+  <homepage>https://github.com/MaskRay/ray-overlay</homepage>
+  <owner type="project">
+    <email>i@maskray.me</email>
+    <name>Ray</name>
+  </owner>
+  <source type="git">git://github.com/MaskRay/ray-overlay.git</source>
+  <feed>https://github.com/MaskRay/ray-overlay/commits/master.atom</feed>
+</repo>
